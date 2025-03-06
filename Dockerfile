@@ -1,3 +1,3 @@
-FROM n8nio/n8n:latest
+FROM n8nio/n8n:1.30.0
 ENV N8N_PORT=443
 EXPOSE 443
